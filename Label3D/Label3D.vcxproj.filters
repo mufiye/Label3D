@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\mfcDoc">
+      <UniqueIdentifier>{f0dc20f4-7047-471d-b868-66b9315d91b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\mfcDoc">
+      <UniqueIdentifier>{145221bd-50ec-4e0b-8947-e7225d15dd7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\openglTools">
+      <UniqueIdentifier>{61ae3837-6bd6-470e-b543-4c9514994cf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\openglTools">
+      <UniqueIdentifier>{85221861-cc5b-4ae1-bb3d-ad4d48c92d0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\assistTools">
+      <UniqueIdentifier>{f2c258f1-db74-4575-bed9-636173af696e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\assistTools">
+      <UniqueIdentifier>{6ef09c67-fb61-47bb-a513-682e50c8c0f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\shader">
+      <UniqueIdentifier>{22e7eaf5-2170-40d1-9437-dfd739327978}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\graphCut">
+      <UniqueIdentifier>{7357c55b-d3e3-4a72-b370-57482e8156e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\graphCut">
+      <UniqueIdentifier>{5af8cd88-ea0e-41d8-bce2-4483ac31a717}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Label3D.h">
+      <Filter>头文件\mfcDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="Label3DDoc.h">
+      <Filter>头文件\mfcDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="Label3DView.h">
+      <Filter>头文件\mfcDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件\mfcDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件\mfcDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件\mfcDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件\mfcDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlView.h">
+      <Filter>头文件\mfcDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="src\modelEditor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\openglTools\glcamera.h">
+      <Filter>头文件\openglTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\openglTools\glm.h">
+      <Filter>头文件\openglTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\openglTools\glmint.h">
+      <Filter>头文件\openglTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\openglTools\jpeglib.h">
+      <Filter>头文件\openglTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\openglTools\myopengltool.h">
+      <Filter>头文件\openglTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\filetool.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\gmltool.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\jsontool.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\modeltool.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\polygontool.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\tinystr.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\tinyxml.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\model.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\publicstruct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InputNumDlg.h">
+      <Filter>头文件\mfcDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="src\evaluate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\openglTools\glsl.h">
+      <Filter>头文件\openglTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\openglTools\facePicker.h">
+      <Filter>头文件\openglTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\openglTools\shader_m.h">
+      <Filter>头文件\openglTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\stb_image.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+    <ClInclude Include="SelCategoryDlg.h">
+      <Filter>头文件\mfcDoc</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphCut\block.h">
+      <Filter>头文件\graphCut</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphCut\graph.h">
+      <Filter>头文件\graphCut</Filter>
+    </ClInclude>
+    <ClInclude Include="src\graphCut\graphCut.h">
+      <Filter>头文件\graphCut</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\phototool.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\masktool.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\projectiontool.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+    <ClInclude Include="src\annotation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\assistTools\panoptic.h">
+      <Filter>头文件\assistTools</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Label3D.cpp">
+      <Filter>源文件\mfcDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="Label3DDoc.cpp">
+      <Filter>源文件\mfcDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="Label3DView.cpp">
+      <Filter>源文件\mfcDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件\mfcDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件\mfcDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlView.cpp">
+      <Filter>源文件\mfcDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modelEditor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\glcamera.cpp">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\glm.c">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\glm_util.c">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\glmimg.c">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\glmimg_devil.c">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\glmimg_jpg.c">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\glmimg_png.c">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\glmimg_sdl.c">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\glmimg_sim.c">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\myopengltool.cpp">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\filetool.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\gmltool.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\jsontool.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\modeltool.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\polygontool.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\tinystr.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\tinyxml.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\tinyxmlerror.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\tinyxmlparser.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\model.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\publicstruct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InputNumDlg.cpp">
+      <Filter>源文件\mfcDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="src\evaluate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\glsl.cpp">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\openglTools\facePicker.cpp">
+      <Filter>源文件\openglTools</Filter>
+    </ClCompile>
+    <ClCompile Include="SelCategoryDlg.cpp">
+      <Filter>源文件\mfcDoc</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphCut\graph.cpp">
+      <Filter>源文件\graphCut</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphCut\graphCut.cpp">
+      <Filter>源文件\graphCut</Filter>
+    </ClCompile>
+    <ClCompile Include="src\graphCut\maxflow.cpp">
+      <Filter>源文件\graphCut</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\masktool.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\phototool.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\projectiontool.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+    <ClCompile Include="src\annotation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\assistTools\panoptic.cpp">
+      <Filter>源文件\assistTools</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Label3D.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Label3D.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="src\graphCut\instances.inc">
+      <Filter>头文件\graphCut</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Label3DDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Label3D.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,137 @@
+{
+	"categories" : 
+	[
+		{
+			"color": [
+                128,
+                64,
+                128
+            ],
+			"id" : 0,
+			"isthing" : 1,
+			"name" : "building",
+			"supercategory" : "building"
+		},
+		{
+			"color": [
+                244,
+                35,
+                232
+            ],
+			"id" : 1,
+			"isthing" : 1,
+			"name" : "vehicle",
+			"supercategory" : "vehicle"
+		},
+		{
+			"color": [
+                255,
+                130,
+                0
+            ],
+			"id" : 2,
+			"isthing" : 0,
+			"name" : "plant",
+			"supercategory" : "plant"
+		},
+		{
+			"color": [
+                102,
+                102,
+                156
+            ],
+			"id" : 3,
+			"isthing" : 0,
+			"name" : "river",
+			"supercategory" : "water"
+		},
+		{
+			"color": [
+                190,
+                153,
+                153
+            ],
+			"id" : 4,
+			"isthing" : 0,
+			"name" : "water-other",
+			"supercategory" : "water"
+		},
+		{
+			"color": [
+                153,
+                153,
+                153
+            ],
+			"id" : 5,
+			"isthing" : 0,
+			"name" : "platform",
+			"supercategory" : "ground"
+		},
+		{
+			"color": [
+                250,
+                170,
+                30
+            ],
+			"id" : 6,
+			"isthing" : 1,
+			"name" : "bridge",
+			"supercategory" : "ground"
+		},
+		{
+			"color": [
+                220,
+                220,
+                0
+            ],
+			"id" : 7,
+			"isthing" : 1,
+			"name" : "playingfield",
+			"supercategory" : "ground"
+		},
+		{
+			"color": [
+                107,
+                142,
+                35
+            ],
+			"id" : 8,
+			"isthing" : 0,
+			"name" : "railroad",
+			"supercategory" : "ground"
+		},
+		{
+			"color": [
+                255,
+                0,
+                10
+            ],
+			"id" : 9,
+			"isthing" : 0,
+			"name" : "road",
+			"supercategory" : "ground"
+		},
+		{
+			"color": [
+                230,
+                20,
+                240
+            ],
+			"id" : 10,
+			"isthing" : 0,
+			"name" : "farmland",
+			"supercategory" : "ground"
+		},
+		{
+			"color": [
+                70,
+                130,
+                180
+            ],
+			"id" : 11,
+			"isthing" : 0,
+			"name" : "ground-other",
+			"supercategory" : "ground"
+		}
+	]
+}

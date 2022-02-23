@@ -1,0 +1,693 @@
+﻿  stdafx.cpp
+  SelCategoryDlg.cpp
+e:\onedrive\文档\label3d\label3d\selcategorydlg.cpp(132): warning C4244: “=”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+  MainFrm.cpp
+e:\onedrive\文档\label3d\label3d\src\opengltools\shader_m.h(45): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(35): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(36): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(31): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(33): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\mainfrm.cpp(90): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\mainfrm.cpp(91): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\mainfrm.cpp(107): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\mainfrm.cpp(108): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Label3DView.cpp
+e:\onedrive\文档\label3d\label3d\src\opengltools\shader_m.h(45): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(35): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(36): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(31): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(33): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\label3dview.cpp(250): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\label3dview.cpp(260): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\label3dview.cpp(278): warning C4305: “参数”: 从“double”到“float”截断
+e:\onedrive\文档\label3d\label3d\label3dview.cpp(704): warning C4244: “/=”: 从“double”转换到“short”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\label3dview.cpp(879): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\label3dview.cpp(880): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\label3dview.cpp(895): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\label3dview.cpp(905): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\label3dview.cpp(912): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Label3DDoc.cpp
+e:\onedrive\文档\label3d\label3d\src\opengltools\shader_m.h(45): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(35): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(36): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(31): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(33): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\label3ddoc.cpp(318): warning C4101: “test”: 未引用的局部变量
+  Label3D.cpp
+e:\onedrive\文档\label3d\label3d\src\opengltools\shader_m.h(45): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(35): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(36): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(31): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(33): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  InputNumDlg.cpp
+  ControlView.cpp
+e:\onedrive\文档\label3d\label3d\src\opengltools\shader_m.h(45): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(35): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(36): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(31): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(33): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(184): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(255): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(266): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(276): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(286): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(296): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(306): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(325): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(333): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(341): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(349): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(357): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(365): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(372): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(401): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(416): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(699): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1121): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1128): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1158): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1176): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1216): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1233): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1235): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1344): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1346): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1376): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1378): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1406): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1408): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1433): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1435): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\controlview.cpp(1475): warning C4244: “初始化”: 从“DWORD_PTR”转换到“int”，可能丢失数据
+  正在生成代码...
+e:\onedrive\文档\label3d\label3d\controlview.cpp(574): warning C4715: “CControlView::SetSelectItem”: 不是所有的控件路径都返回值
+  test.cpp
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(35): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(36): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(31): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(33): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\label3d\label3d\src\test.cpp(146): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(234): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(309): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(437): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(449): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(459): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(462): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(522): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(551): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(602): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(615): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(639): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\label3d\label3d\src\test.cpp(668): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\test.cpp(683): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\test.cpp(704): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(721): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(773): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\label3d\label3d\src\test.cpp(784): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(814): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(846): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(944): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+e:\onedrive\文档\label3d\label3d\src\test.cpp(960): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(973): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(995): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1006): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1021): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1193): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1219): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1231): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1248): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1251): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1311): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1314): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1402): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1516): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1539): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1614): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1628): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1696): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1810): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1811): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1812): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\test.cpp(1813): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  publicstruct.cpp
+  myopengltool.cpp
+e:\onedrive\文档\label3d\label3d\src\opengltools\myopengltool.cpp(208): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  glsl.cpp
+e:\onedrive\文档\label3d\label3d\src\opengltools\shader_m.h(45): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(35): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(36): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(31): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(33): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glsl.cpp(47): warning C4154: 删除数组表达式；转换到提供的指针
+e:\onedrive\文档\label3d\label3d\src\opengltools\glsl.cpp(433): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glsl.cpp(545): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\opengltools\glsl.cpp(656): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\opengltools\glsl.cpp(667): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glsl.cpp(809): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\opengltools\glsl.cpp(818): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glsl.cpp(1304): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glsl.cpp(1716): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glsl.cpp(1763): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glsl.cpp(1766): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  glcamera.cpp
+e:\onedrive\文档\label3d\label3d\src\opengltools\glcamera.cpp(75): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glcamera.cpp(76): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glcamera.cpp(93): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glcamera.cpp(94): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glcamera.cpp(112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glcamera.cpp(113): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glcamera.cpp(131): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glcamera.cpp(132): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  facePicker.cpp
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(35): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(36): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(31): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(33): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  modelEditor.cpp
+e:\onedrive\文档\label3d\label3d\src\opengltools\shader_m.h(45): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(35): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\vec.h(36): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(31): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\constant.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(32): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\easy3d\include\easy3d\core\rect.h(33): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(35): warning C4305: “=”: 从“double”到“float”截断
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(36): warning C4305: “=”: 从“double”到“float”截断
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(38): warning C4305: “=”: 从“double”到“float”截断
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(39): warning C4305: “=”: 从“double”到“float”截断
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(275): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(369): warning C4101: “i”: 未引用的局部变量
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(575): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(575): warning C4244: “参数”: 从“const double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(581): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(581): warning C4244: “参数”: 从“const double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(587): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(587): warning C4244: “参数”: 从“const double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(588): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(588): warning C4244: “参数”: 从“const double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(603): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(611): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(620): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(639): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(678): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(725): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(725): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(756): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(757): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(758): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(759): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(809): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(810): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(811): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(812): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(822): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(823): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(824): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(842): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(853): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(854): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(855): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(856): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(866): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(867): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(868): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(869): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1071): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1104): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1186): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1198): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1227): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1239): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1343): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1376): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1415): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1425): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1457): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1520): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1530): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1562): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1622): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1631): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1672): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1681): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1693): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(1720): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2027): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2188): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2224): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2363): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2364): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2374): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2406): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2476): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2478): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2487): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2519): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2546): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2638): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2645): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2648): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2677): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2707): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2731): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2776): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2777): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2778): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2820): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2839): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2848): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2938): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2947): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  model.cpp
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(13): warning C4305: “初始化”: 从“__int64”到“float”截断
+e:\onedrive\文档\label3d\label3d\src\model.cpp(14): warning C4305: “初始化”: 从“__int64”到“float”截断
+e:\onedrive\文档\label3d\label3d\src\model.cpp(18): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(19): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(61): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(63): warning C4305: “初始化”: 从“__int64”到“float”截断
+e:\onedrive\文档\label3d\label3d\src\model.cpp(64): warning C4305: “初始化”: 从“__int64”到“float”截断
+e:\onedrive\文档\label3d\label3d\src\model.cpp(68): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(69): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(111): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(253): warning C4018: “<=”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\model.cpp(264): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\model.cpp(303): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(304): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(344): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(351): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(385): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(402): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(403): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(449): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(456): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(496): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(523): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(552): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(620): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(659): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(681): warning C4018: “<=”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\model.cpp(709): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(710): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(712): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(718): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\model.cpp(766): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(772): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(792): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(810): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(785): warning C4101: “lineIndex”: 未引用的局部变量
+e:\onedrive\文档\label3d\label3d\src\model.cpp(827): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(833): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(853): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(871): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(846): warning C4101: “lineIndex”: 未引用的局部变量
+e:\onedrive\文档\label3d\label3d\src\model.cpp(888): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(894): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(922): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(940): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(915): warning C4101: “lineIndex”: 未引用的局部变量
+e:\onedrive\文档\label3d\label3d\src\model.cpp(965): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(966): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1024): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1049): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1050): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1051): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1081): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1082): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1083): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1125): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1127): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1143): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1164): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.cpp(1175): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\我的路\学习之路\项目\label3d\libs\eigen3\eigen\src\core\matrix.h(235): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+  e:\onedrive\文档\label3d\label3d\src\model.cpp(360): note: 参见对正在编译的函数 模板 实例化“Eigen::Matrix<int,2,1,0,2,1>::Matrix<std::size_t,int>(const T0 &,const T1 &)”的引用
+          with
+          [
+              T0=std::size_t,
+              T1=int
+          ]
+  e:\onedrive\文档\label3d\label3d\src\model.cpp(360): note: 参见对正在编译的函数 模板 实例化“Eigen::Matrix<int,2,1,0,2,1>::Matrix<std::size_t,int>(const T0 &,const T1 &)”的引用
+          with
+          [
+              T0=std::size_t,
+              T1=int
+          ]
+  maxflow.cpp
+  graphCut.cpp
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(141): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(142): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(274): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(290): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(294): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(306): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(324): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(378): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(379): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(391): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(394): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(405): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(407): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(409): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(410): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(430): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(457): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(467): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(474): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(475): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(477): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(485): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(511): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(538): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(544): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(549): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(550): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(558): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(575): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(584): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(588): warning C4267: “参数”: 从“size_t”转换到“Graph<float,float,float>::node_id”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(621): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(629): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.h(118): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(447): note: 参见对正在编译的函数 模板 实例化“void modeltool::MinMaxNormalizeWith0<_Tp>(std::vector<_Tp,std::allocator<_Ty>> &,bool)”的引用
+          with
+          [
+              _Tp=double,
+              _Ty=double
+          ]
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.h(29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.h(143): note: 参见对正在编译的函数 模板 实例化“void modeltool::GetMinMaxValue<_Tp>(const std::vector<_Tp,std::allocator<_Ty>> &,T &,T &)”的引用
+          with
+          [
+              _Tp=double,
+              _Ty=double,
+              T=double
+          ]
+  e:\onedrive\文档\label3d\label3d\src\graphcut\graphcut.cpp(447): note: 参见对正在编译的函数 模板 实例化“void modeltool::MinMaxNormalizeWith0<_Tp>(std::vector<_Tp,std::allocator<_Ty>> &,bool)”的引用
+          with
+          [
+              _Tp=double,
+              _Ty=double
+          ]
+  graph.cpp
+  evaluate.cpp
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(37): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(74): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(75): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(102): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(103): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(115): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(116): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(143): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(144): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(172): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(173): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(191): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(200): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(235): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(247): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(346): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(357): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(387): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(388): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(409): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(418): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(453): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\evaluate.cpp(465): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  projectiontool.cpp
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(124): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(124): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(125): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(125): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(126): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(126): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(127): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(127): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(204): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(204): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(205): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(205): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(206): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(206): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(207): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(207): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(409): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\projectiontool.cpp(484): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  polygontool.cpp
+e:\onedrive\文档\label3d\label3d\src\assisttools\polygontool.cpp(90): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  phototool.cpp
+e:\onedrive\文档\label3d\label3d\src\assisttools\phototool.cpp(201): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\phototool.cpp(202): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\phototool.cpp(289): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\phototool.cpp(304): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\phototool.cpp(403): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  panoptic.cpp
+e:\onedrive\文档\label3d\label3d\src\assisttools\panoptic.cpp(102): warning C4244: “参数”: 从“time_t”转换到“char”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\panoptic.cpp(199): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\panoptic.cpp(203): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\panoptic.cpp(224): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\panoptic.cpp(240): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\panoptic.cpp(263): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\label3d\label3d\src\assisttools\panoptic.cpp(308): warning C4930: “panopticlabel::PanopticLabel panopticLabel(void)”: 未调用原型函数(是否是有意用变量定义的?)
+e:\onedrive\文档\label3d\label3d\src\assisttools\panoptic.cpp(336): warning C4101: “e”: 未引用的局部变量
+  正在生成代码...
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2826): warning C4715: “ModelEditor::SetCameraPivotPoint”: 不是所有的控件路径都返回值
+e:\onedrive\文档\label3d\label3d\src\modeleditor.cpp(2952): warning C4715: “ModelEditor::PickRoadFaces”: 不是所有的控件路径都返回值
+  正在编译...
+  modeltool.cpp
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(76): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(107): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(111): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(112): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(143): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(145): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(156): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(165): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(169): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(196): warning C4267: “=”: 从“size_t”转换到“GLuint”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(197): warning C4267: “=”: 从“size_t”转换到“GLuint”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(205): warning C4267: “=”: 从“size_t”转换到“GLuint”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(210): warning C4018: “<=”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(217): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(239): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(257): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(280): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(281): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(297): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(298): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(299): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(324): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(383): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(478): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(486): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(524): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\modeltool.cpp(539): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  masktool.cpp
+e:\onedrive\文档\label3d\label3d\src\assisttools\masktool.cpp(214): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\onedrive\文档\label3d\label3d\src\assisttools\masktool.cpp(281): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\assisttools\masktool.cpp(283): warning C4018: “<”: 有符号/无符号不匹配
+  jsontool.cpp
+e:\onedrive\文档\label3d\label3d\src\assisttools\jsontool.cpp(106): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\jsontool.cpp(154): warning C4101: “e”: 未引用的局部变量
+  gmltool.cpp
+  filetool.cpp
+e:\onedrive\文档\label3d\label3d\src\assisttools\filetool.cpp(92): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\filetool.cpp(173): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\filetool.cpp(368): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\assisttools\filetool.cpp(370): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\assisttools\filetool.cpp(386): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\assisttools\filetool.cpp(388): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\assisttools\filetool.cpp(486): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\assisttools\filetool.cpp(539): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  annotation.cpp
+e:\onedrive\文档\label3d\label3d\src\model.h(112): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\model.h(120): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(48): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(61): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(201): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(220): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(261): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(278): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(295): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(313): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(332): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(355): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(360): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(391): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(394): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(431): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(476): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(478): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(481): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(489): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(498): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(501): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(551): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(574): warning C4101: “e”: 未引用的局部变量
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(623): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(641): warning C4305: “参数”: 从“double”到“const float”截断
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(708): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(739): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(744): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(764): warning C4018: “>=”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(826): warning C4018: “>=”: 有符号/无符号不匹配
+  正在生成代码...
+e:\onedrive\文档\label3d\label3d\src\annotation.cpp(28): warning C4715: “Annotation::DeleteInstance”: 不是所有的控件路径都返回值
+  glm_util.c
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm_util.c(37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  glmimg_sim.c
+  glmimg_sdl.c
+  glmimg_png.c
+  glmimg_jpg.c
+  glmimg_devil.c
+  glmimg.c
+e:\onedrive\文档\label3d\label3d\src\opengltools\glmimg.c(398): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glmimg.c(399): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+  glm.c
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(347): warning C4305: “=”: 从“double”到“GLfloat”截断
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(348): warning C4305: “=”: 从“double”到“GLfloat”截断
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(349): warning C4305: “=”: 从“double”到“GLfloat”截断
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(351): warning C4305: “=”: 从“double”到“GLfloat”截断
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(352): warning C4305: “=”: 从“double”到“GLfloat”截断
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(353): warning C4305: “=”: 从“double”到“GLfloat”截断
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(989): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(990): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(991): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(994): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1196): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1403): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1409): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1410): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1460): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1461): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1468): warning C4305: “=”: 从“double”到“GLfloat”截断
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1470): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1473): warning C4305: “=”: 从“double”到“GLfloat”截断
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1475): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1478): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1479): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1563): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(1717): warning C4018: “<”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(2192): warning C4018: “<=”: 有符号/无符号不匹配
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(2202): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(2203): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(2204): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(2189): warning C4305: “初始化”: 从“__int64”到“float”截断
+e:\onedrive\文档\label3d\label3d\src\opengltools\glm.c(2190): warning C4305: “初始化”: 从“__int64”到“float”截断
+  正在生成代码...
+LINK : warning LNK4098: 默认库“LIBCMTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+viewer.lib(camera.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(camera.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(drawable.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(drawable.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(drawable_lines.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(drawable_lines.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(frame.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(frame.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(framebuffer_object.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(framebuffer_object.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(key_frame_interpolator.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(key_frame_interpolator.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(manipulated_camera_frame.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(manipulated_camera_frame.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(manipulated_frame.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(manipulated_frame.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(opengl_error.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(opengl_error.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(opengl_info.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(opengl_info.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(primitives.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(primitives.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(setting.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(setting.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(shader_manager.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(shader_manager.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(shader_program.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(shader_program.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(texture.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(texture.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+viewer.lib(vertex_array_object.obj) : warning LNK4099: 未找到 PDB“viewer.pdb”(使用“viewer.lib(vertex_array_object.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\viewer.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+util.lib(file_system.obj) : warning LNK4099: 未找到 PDB“util.pdb”(使用“util.lib(file_system.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\util.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+util.lib(string.obj) : warning LNK4099: 未找到 PDB“util.pdb”(使用“util.lib(string.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\util.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fileio.lib(image_io.obj) : warning LNK4099: 未找到 PDB“fileio.pdb”(使用“fileio.lib(image_io.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\fileio.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fileio.lib(resources.obj) : warning LNK4099: 未找到 PDB“fileio.pdb”(使用“fileio.lib(resources.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\fileio.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glogd.lib(demangle.obj) : warning LNK4099: 未找到 PDB“glog.pdb”(使用“glogd.lib(demangle.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\glog.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glogd.lib(logging.obj) : warning LNK4099: 未找到 PDB“glog.pdb”(使用“glogd.lib(logging.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\glog.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glogd.lib(raw_logging.obj) : warning LNK4099: 未找到 PDB“glog.pdb”(使用“glogd.lib(raw_logging.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\glog.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glogd.lib(symbolize.obj) : warning LNK4099: 未找到 PDB“glog.pdb”(使用“glogd.lib(symbolize.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\glog.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glogd.lib(utilities.obj) : warning LNK4099: 未找到 PDB“glog.pdb”(使用“glogd.lib(utilities.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\glog.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glogd.lib(vlog_is_on.obj) : warning LNK4099: 未找到 PDB“glog.pdb”(使用“glogd.lib(vlog_is_on.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\glog.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glogd.lib(signalhandler.obj) : warning LNK4099: 未找到 PDB“glog.pdb”(使用“glogd.lib(signalhandler.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\glog.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glogd.lib(port.obj) : warning LNK4099: 未找到 PDB“glog.pdb”(使用“glogd.lib(port.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\glog.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdapimin.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdapimin.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdapistd.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdapistd.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdarith.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdarith.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdatasrc.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdatasrc.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdmaster.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdmaster.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdinput.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdinput.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdmarker.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdmarker.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdhuff.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdhuff.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdmainct.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdmainct.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdcoefct.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdcoefct.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdpostct.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdpostct.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jddctmgr.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jddctmgr.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jidctfst.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jidctfst.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jidctflt.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jidctflt.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jidctint.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jidctint.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdsample.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdsample.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdcolor.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdcolor.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jquant1.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jquant1.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jquant2.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jquant2.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jdmerge.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jdmerge.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jaricom.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jaricom.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jcomapi.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jcomapi.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jutils.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jutils.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jerror.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jerror.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jmemmgr.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jmemmgr.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjpegd.lib(jmemnobs.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“libjpegd.lib(jmemnobs.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjsond.lib(json_reader.obj) : warning LNK4099: 未找到 PDB“jsoncpp_lib_static.pdb”(使用“libjsond.lib(json_reader.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\jsoncpp_lib_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjsond.lib(json_value.obj) : warning LNK4099: 未找到 PDB“jsoncpp_lib_static.pdb”(使用“libjsond.lib(json_value.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\jsoncpp_lib_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libjsond.lib(json_writer.obj) : warning LNK4099: 未找到 PDB“jsoncpp_lib_static.pdb”(使用“libjsond.lib(json_writer.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\jsoncpp_lib_static.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glew.lib(glew.obj) : warning LNK4099: 未找到 PDB“glew.pdb”(使用“glew.lib(glew.obj)”或在“E:\OneDrive\文档\Label3D\x64\Debug\glew.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Label3D.vcxproj -> E:\OneDrive\文档\Label3D\x64\Debug\Label3D.exe
+  Label3D.vcxproj -> E:\OneDrive\文档\Label3D\x64\Debug\Label3D.pdb (Partial PDB)
